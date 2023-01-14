@@ -3,4 +3,5 @@ Analysis on job posts for data analyst. Datasets are for Africa, USA, and Canada
 The following questions are answered:
 * What are the most in demand Seniority levels?
 * What skills get mentioned most
-* Are there any differences between the regions?
+* Are there any differences in mentioned skill between the regions?
+* The demand for data analyst over the years
